@@ -1,0 +1,18 @@
+# Ambiente virtual do Python
+.venv/
+venv/
+env/
+
+# Cache do Python
+__pycache__/
+*.pyc
+
+# Microdados COMPLETOS da PDAD 2024 (grandes demais para o GitHub).
+# Baixe em https://pdad.ipe.df.gov.br/ e coloque em dados/.
+# Para testar sem eles, use o dados/moradores_parcial.csv (já versionado).
+dados/moradores.csv
+dados/domicilios.xlsx
+
+# Arquivos exportados durante o uso do sistema
+saida_*.txt
+saida_*.csv

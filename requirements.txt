@@ -1,0 +1,8 @@
+# Dependências do sistema (instale com: pip install -r requirements.txt)
+pandas
+matplotlib
+
+# openpyxl só é necessário se você quiser abrir o dicionário de variáveis
+# (dados/dicionario_de_variaveis_pdad_2024.xlsx) dentro do Python.
+# O sistema em si NÃO precisa dele para rodar.
+# openpyxl
