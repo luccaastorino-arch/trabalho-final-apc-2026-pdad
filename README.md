@@ -172,9 +172,5 @@ Estatística do DF (IPEDF): **https://pdad.ipe.df.gov.br/**
 
 ---
 
-## 👥 Integrantes da dupla
-
-- [Integrante 1 — preencher]
-- [Integrante 2 — preencher]
 
 *APC 2026/1 — Licenciatura em Computação — UnB/CIC · Prof. Jorge Henrique Cabral Fernandes*
